@@ -1,4 +1,4 @@
--- Selec Data that we are going to be using
+-- Select Data that we are going to be using
 
 SELECT Location, Date, total_cases, new_cases, total_deaths, population
 FROM PortfolioProject..CovidDeaths
